@@ -20,7 +20,7 @@ Link: [https://flight-fare-predictor-tarun.herokuapp.com/](https://flight-fare-p
 ![image](https://user-images.githubusercontent.com/92631457/157175638-5053f233-5039-4ea8-9e16-068ed16128ae.png)
 
 ## Blog
-You can read more about this project in detail on my [blog](https://medium.com/@tarun.k0/predicting-airfare-price-using-machine-learning-techniques-ec8c19728efd).
+You can read more about this project in detail on my [blog](https://medium.com/@priya38/predicting-airfare-price-using-machine-learning-techniques-b4e6c828743d).
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
